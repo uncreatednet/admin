@@ -160,10 +160,10 @@ técnico junto a Prefeitura para o mencionado fim.
 conteúdo, como por exemplo acréscimo de serviços ou inclusão de outros espaços, pode requerer alterações do cronograma ou do orçamento.
 
 * Nesse orçamento incluímos até 2 visitas no local, pagas por nós, durante a elaboração dos projetos. Caso mais visitas sejam necessárias,
-serão cobradas horas técnicas no valor de R$200,00/hora/profissional.
+serão cobradas horas técnicas no valor de R$ XXX/hora/profissional.
 
 * Nesta proposta não está incluído o acompanhamento da obra, mas, mesmo no caso em que não fomos contratados para acompanhá-la, nos 
-disponibilizamos a visitar a obra quando for preciso, desde que as despesas e horas técnicas no valor de R$200,00/hora/profissional sejam 
+disponibilizamos a visitar a obra quando for preciso, desde que as despesas e horas técnicas no valor de R$ XXX/hora/profissional sejam 
 pagas pelo cliente. Mas propomos deixar esse assunto para uma discussão posterior.
 
 * Os prazos indicados para cada etapa são prazos do nosso trabalhho, para garantir um resultado correto. Não incluem períodos de avaliação, 
