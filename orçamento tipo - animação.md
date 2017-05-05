@@ -63,7 +63,7 @@ etapas sejam aprovadas, esses elementos podem ser modificados conforme conversas
 
 * Após a entrega do trabalho e aprovação do mesmo pelo cliente, **alterações serão tratadas como um novo trabalho**, sendo assim sujeitas a novo orçamento e cronograma.
 
-* Entregamos todos os trabalhos em forma digital, não fazemos impressões.
+* Entregamos todos os trabalhos em forma digital, impressões no fazem parte desta proposta.
 
 * Iniciaremos o trabalho somente após receber informações suficientes. A princípio, incluímos nas imagens somente os elementos que constam no projeto que nos for entregue inicialmente. Informações complementares entregues muito após o início do trabalho podem causar alterações de prazo.
 
